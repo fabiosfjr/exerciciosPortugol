@@ -1,2 +1,2 @@
 # exerciciosPortugol
-Resolução dos exercícios de Portugol do Bootcamp Generation.
+Resolução dos exercícios de Portugol do Boot Camp Generation.
